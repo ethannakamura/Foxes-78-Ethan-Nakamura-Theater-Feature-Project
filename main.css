@@ -1,0 +1,127 @@
+a{
+    color:white;
+}
+.navbar{
+    color:rgb(255, 255, 255);
+    background-color: black;
+    position: cover;
+    width: 100%;
+}
+#griottheater{
+    font-size:22px;
+    padding-left:60px;
+    font-family:Robota;
+}
+#urls{
+    position:absolute;
+    padding-left: 350px;
+}
+.features{
+    position: absolute;
+    width:100%;
+    text-align:center;
+    color:white;
+    background-image: cover;
+    font-family:Robota;
+}
+#Feat{
+    font-size:90px;
+}
+#parstart{
+    background-color:rgb(241, 240, 240);
+    border:1px solid black;
+    text-align:left;
+    padding-left:50px;
+    font-family: Robato;
+    font-size: 17.5px;
+}
+#photo1{
+    width: 240px;
+    height: 175px
+}
+#photo2{
+    width: 240px;
+    height: 175px
+}
+#photo3{
+    width: 240px;
+    height: 175px
+}
+#photo4{
+    width: 240px;
+    height: 175px
+}
+#grp1{
+    display:flex;
+    flex-direction:row;
+    font-family: Robato;
+    padding-top:3px;
+}
+#grp2{
+    display:flex;
+    flex-direction:row;
+    font-family: Robato;
+    padding-top:3px;
+}
+#grp3{
+    display:flex;
+    flex-direction:row;
+    font-family: Robato;
+    padding-top:3px;
+}
+#grp4{
+    display:flex;
+    flex-direction:row;
+    font-family: Robato;
+    padding-top:3px;
+    padding-bottom:20px;
+}
+#readbutton{
+    background-color: rgb(255, 191, 0);
+    color:white;
+    border:1px solid black;
+    border-radius:none;
+    position:absolute;
+    width: 150px;
+    font-size: 23px;
+}
+#bottom{
+    background-color:black;
+    color:white;
+    padding-top:100px;
+    padding-bottom: 100px;
+    padding-left:100px;
+}
+#map{
+    width:250px;
+    height:155px;
+    position:absolute;
+}
+#pad1{
+    padding-left:12.5px;
+}
+#col5{
+    list-style-type:none;
+    padding-left: 40px;
+    font-size:8px;
+    padding-right:0px;
+}
+#col6{
+    list-style-type:none;
+    font-size:8px;
+    padding-right:0px;
+}
+#col7{
+    list-style-type:none;
+    font-size:8px;
+}
+#pin{
+    width:30px;
+}
+#message{
+    width:30px;   
+}
+#phone{
+    width:30px;   
+    padding-left:4px;
+}
